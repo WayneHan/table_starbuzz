@@ -54,6 +54,10 @@ body {
   font-size:        90%;
 }
 
+#headerslogan{
+  float: right;
+}
+
 div#tablecontainer{
   display: table;
   border-spacing: 10px;
@@ -67,7 +71,11 @@ h1 {
   color:            #954b4b;
 }
 
-.slogan { color: #954b4b; }
+.slogan { 
+  color: #954b4b;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-style: italic;
+}
 
 .beanheading {
   text-align:       center;
