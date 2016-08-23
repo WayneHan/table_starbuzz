@@ -92,3 +92,13 @@ a:visited {
   text-decoration:  none;
   border-bottom:    thin dotted #675c47;
 }
+
+#coupon{
+  position: fixed;
+  top: 5px;
+  left: 350px;
+}
+
+#coupon a, img{
+  border: none;
+}
